@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://gerrit-releases.storage.googleapis.com/gerrit-3.5.0.1.war
+SOURCE_SUM=4d264c0d6bc3ecde24f932cf99b41fddd8dbd53f0e711dcb10a133a4c595f80d
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
-SOURCE_EXTRACT=true
+SOURCE_FORMAT=jar
+SOURCE_IN_SUBDIR=false
+SOURCE_EXTRACT=false
+SOURCE_FILENAME=gerrit.war
